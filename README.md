@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @karim-20-maker
-- 👀 I’m interested in software Testing
+- 👋 Hi, I’m karim
+- 👀 I’m interested in software Quality
 - 🌱 I’m currently learning appium
 - 💞️ I’m looking to collaborate on any thing releated to software testing
 - 📫 you can reach me  usig Email "karim.ledoyen@gmail.com"
